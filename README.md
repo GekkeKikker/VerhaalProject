@@ -6,3 +6,4 @@ Blijkbaar begonnen de edibles die ik een half uur eerder had genomen sneller te 
 Ik liep zo snel ik kon naar de frituur.
 
 Gelukkig was de Welles prinses nog wakker om haar dagelijkse doso JS code te schrijven.
+Ze logde in op haar Codewars account om eerst wat te oefenen, maar was haar wachtwoord weer vergeten.
